@@ -34,14 +34,6 @@ Access the live version here:
 - Node.js (version 16 or later recommended)
 - npm or yarn
 
-### Installation
-
-Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/your-username/trade-analyzer.git
-cd trade-analyzer
-npm install
 ````
 
 ### Development Server
